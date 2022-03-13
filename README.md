@@ -12,11 +12,14 @@
 As we can vew looking at the images 2017 was more successful with the stock market then 2018.
 ### Using images and examples of your code she the execution times of the original script and the refactored script
 I did not realize i had to take pictures of the execution time so this is after it had already ran at least once.
-
 2017
 ![Capture 2017](https://user-images.githubusercontent.com/99035696/158083653-a95204fd-c540-4853-a3a3-d830efafff78.PNG)
 2018
 ![Capture 2018](https://user-images.githubusercontent.com/99035696/158083675-df5456c4-1bed-4a7f-94f6-ff4b753fc655.PNG)
+Code for Module 2 Challeng
+![code](https://user-images.githubusercontent.com/99035696/158083950-19990660-ad35-4f85-bf55-493999c09901.PNG)
+![code 2](https://user-images.githubusercontent.com/99035696/158083970-1da2c03d-30ce-453b-97f0-e19fea97ba70.PNG)
+![code 3](https://user-images.githubusercontent.com/99035696/158083985-cd92b94b-24f5-4e51-8049-8ae1dc62e958.PNG)
 ## Summary: 
 ### What are the advantages or disadvantages of refactoring code? 
 An advantage can be that we use what we did in the module just to tweet it for a broader market. A disadvantage could be if you used the same code but messed up somewhere along the process the code might not work correctly. Possibly taking away important information.
